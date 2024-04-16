@@ -8,6 +8,6 @@
   <link rel="icon" href="favicon.png">
 </head>
 <body>
-  <h1>this is an HTML TEXT</h1>
+  <h1>this is an TXT</h1>
 </body>
 </html>
